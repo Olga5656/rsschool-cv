@@ -3,8 +3,8 @@
 ## Contacts
 * **Location:** Minsk, Belarus
 * **Phone:** +375(29)7783666
-* **Email:** olga.kvach06@gmail.com
 * **Discord:** Olga5656
+* **Email:** olga.kvach06@gmail.com
 
 ## About me
 I want to learn Front-End development. I believe that I will become an experienced specialist. I have good interpersonal skills, am diligent and love to learn new things.
@@ -35,4 +35,3 @@ alert (user);
 ## Languages
 * English language - A1, in the process of studying;
 * Russian - native speaker.
-
